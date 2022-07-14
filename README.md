@@ -52,7 +52,7 @@ https://www.nowcoder.com/ta/coding-interviews
 | 39.数组中出现次数超过一半的数字   | `Array`                      | 常考 |
 | 40.最小的k个数                    | `Heap`                       |      |
 | 41.数据流中的中位数               |                              | 常考 |
-| 42.连续子数组最大和               | `Dynamic Programming`        |      |
+| 42.连续子数组最大和               | `Dynamic Programming`        | 常考 |
 | 43.整数中1出现的次数              | `Bit Manipulation`           | 关注 |
 | 44.数字序列中某一位的数字         | `Math`                       | 关注 |
 | 45.把数组排成最小的数             | `String`                     |      |
